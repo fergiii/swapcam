@@ -1,5 +1,4 @@
 # swapcam
-📌 FAQ: Swapcam Android Software 
 
 📌 FAQ: Swapcam Android Software
 ⬇️    ⬇️    ⬇️
