@@ -1,2 +1,0 @@
-Disable antivirus if it won't start. And download it again. There are no viruses in this application.
-Here's a link to VirusTotal - https://www.virustotal.com/gui/file/0856fa223f07bd0fdb361a51c97f4da74a473c397ecc866c970f95e379c02677?nocache=1
